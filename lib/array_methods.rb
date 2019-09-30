@@ -4,21 +4,21 @@ array.include?
 end
 
 def using_sort(array)
-sort
+using_sort
 end
 
 def using_reverse(array)
-  reverse
+  using_reverse
 end
 
 def using_first(array)
-first
+using_first
 end
 
 def using_last(array)
-last
+using_last
 end
 
 def using_size(array)
-size
+using_size
 end
